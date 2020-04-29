@@ -1,0 +1,22 @@
+Explosion radius is half the size \n
+Menu Glitch's effect is not more efficient.\n
+Fancy Loading Screen\n
+New Music track\n
+Re-added vignette\n
+Save files now have the extension.BDmap\n
+New Screen when you press play\n
+Swiming makes you slow down/hide feet.\n
+Fixed bug where the player is invisible if you die in a van\n
+Editor bug fix: Placing aliens fixed\n\n
+cops are now placeable in the editor\n
+Van is fixed\n
+art station is fixed.\n
+You are slower when holding the gun/tnt\n
+van explodes when it hits an electric fence\n
+Flowers\n
+Spawn Block\n
+Reworked Block System\n
+Press E to open art station\n
+Teleporter Item\n
+Music!\n
+New SFX!\n
