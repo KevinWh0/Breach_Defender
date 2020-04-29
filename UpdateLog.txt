@@ -2,7 +2,6 @@ Explosion radius is half the size
 Menu Glitch's effect is not more efficient.
 Fancy Loading Screen
 New Music track
-Re-added vignette
 Save files now have the extension.BDmap
 New Screen when you press play
 Swiming makes you slow down/hide feet.
